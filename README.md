@@ -28,7 +28,7 @@ El script realiza las siguientes tareas:
 ### Uso  
 1. Clona este repositorio:  
    ```bash  
-   git clone https://github.com/tuusuario/nombre-del-repo.git  
+   git clone https://github.com/ttomiid/PyNumVerifyTool.git  
    ```  
 2. Asegúrate de que tienes `curl` instalado. Si no lo tienes, puedes instalarlo con:  
    ```bash  
@@ -36,7 +36,7 @@ El script realiza las siguientes tareas:
    ```  
 3. Ejecuta el script:  
    ```bash  
-   python3 script.py  
+   python3 PyNumVerify.py  
    ```  
 4. Introduce un número de teléfono cuando se solicite.  
 
