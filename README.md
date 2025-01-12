@@ -37,7 +37,7 @@ The script performs the following tasks:
    ```  
 3. Run the script:  
    ```bash  
-   python3 script.py  
+   python3 PyNumVerify.py  
    ```  
 4. Enter a phone number when prompted.  
 
