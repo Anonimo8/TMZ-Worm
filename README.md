@@ -44,7 +44,6 @@ The script performs the following tasks:
 - **Compatibility**: This script has been designed and tested exclusively on Linux systems. Functionality on other operating systems is not guaranteed.  
 - **API Key**: Ensure you replace the default API key with a valid one before running the script.  
 
----
 
 https://numverify.com/
  
