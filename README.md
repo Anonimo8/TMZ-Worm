@@ -3,6 +3,8 @@
 
 # PyNumVerify v1.0  
 
+[Download executable](https://github.com/ttomiid/PyNumVerify/releases/tag/v1.0)
+
 [NumVerify API](https://numverify.com/)
 
 **A Phone Number Validation Tool Using API Layer**  
