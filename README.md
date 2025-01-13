@@ -103,6 +103,6 @@ Telephone: +1234567890
 ---
 
 ## License  
-PyNumVerify is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+PyNumVerify is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
 
 --- 
