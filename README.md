@@ -3,7 +3,7 @@
 
 # PyNumVerify v1.0  
 
-[NumVerify](https://numverify.com/)
+[NumVerify API](https://numverify.com/)
 
 **A Phone Number Validation Tool Using API Layer**  
 
